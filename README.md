@@ -29,7 +29,10 @@ Simply click on the live, deployed application link to begin tracking your trans
 * CSS3
 * JavaScript
 * Node JS
+* MongoDB
+* Mongoose (npm)
 * Manifest (npm)
+* Heroku
 
 ## License
 
