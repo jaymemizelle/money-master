@@ -22,7 +22,7 @@ This application is designed to allow the user to track their expenses and depos
 Simply click on the live, deployed application link to begin tracking your transactions and become a Money Master!
 
 ## Deployment
-* Depoloyed application URL: 
+* Depoloyed application URL: https://money-master4e.herokuapp.com/
 
 ## Technologies
 * HTML5
