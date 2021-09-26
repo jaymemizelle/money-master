@@ -48,6 +48,6 @@ Simply click on the live, deployed application link to begin tracking your trans
 
 ## Questions
 For additional questions please contact:
-* Jayme Mizelle
-* Email: jayme.coder@gmail.com
-* https://github.com/jaymemizelle
+* The Privacy Dev
+* Email: theprivacydev@protonmail.com
+* https://github.com/theprivacydev
